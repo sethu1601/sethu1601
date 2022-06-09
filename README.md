@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sethu1601
+- 👋 Hi, I’m Sethu Madhavan
 - 👀 I’m interested in Data ana business Analytics
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on project
+- 🌱 I’m currently learning python programming and sql
+- 💞️ I’m looking to collaborate on project associated with ineuron.ai
 - 📫 How to reach me through my mail ID being.sethu16@gmail.com
 
 <!---
